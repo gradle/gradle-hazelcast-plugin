@@ -1,3 +1,9 @@
+# The plugin has moved
+
+The Gradle Hazelcast cache backend plugin is no longer maintained by Gradle. Its new home is at https://github.com/sinwe/gradle-hazelcast-plugin.
+
+----
+
 # Gradle Hazelcast cache backend plugin
 
 [![Build Status](https://travis-ci.org/gradle/gradle-hazelcast-plugin.svg?branch=master)](https://travis-ci.org/gradle/gradle-hazelcast-plugin)
